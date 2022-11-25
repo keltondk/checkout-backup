@@ -7,7 +7,7 @@ import java.util.Map;
  * Abstract class representing a sheet for a particular piece
  * of equipment
  */
-abstract class AEquipmentSheet {
+public abstract class AEquipmentSheet {
     /**
      * copyNum: copy of equipment checked out
      * patron: name of patron
